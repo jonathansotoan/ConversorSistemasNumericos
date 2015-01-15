@@ -1,0 +1,4 @@
+# ConversorSistemasNumericos
+Un conversor de cualquier número de cualquier sistemas numérico desde el binario hasta el base 36.
+
+Después de varios años de haber desarrollado este programa, lo revisé y me dí cuenta de que no está hecho con las mejores prácticas y utilicé métodos no tan eficientes para conseguir lo que quería; así que procede con esto en mente.
